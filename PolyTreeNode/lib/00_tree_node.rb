@@ -71,8 +71,7 @@ class PolyTreeNode
         q << child
       end
     end
-
-    nil
+    
   end
 
 end
